@@ -71,7 +71,7 @@
 			@apply h-full bg-hero bg-cover bg-center bg-no-repeat;
 		}
 		&-section {
-			@apply relative mx-auto h-svh w-full;
+			@apply relative mx-auto h-dvh w-full;
 		}
 		&-header {
 			@apply absolute inset-0 top-24 mx-auto flex h-max max-w-7xl flex-row items-start gap-3 px-6 xs:gap-4 sm:gap-5 sm:px-12 md:px-16;
